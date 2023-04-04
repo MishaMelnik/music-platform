@@ -1,0 +1,8 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  &_textField{
+    margin-top: 10px;
+  }
+}

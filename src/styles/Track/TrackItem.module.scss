@@ -1,0 +1,18 @@
+.track{
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  &_img{
+    width: 70px;
+    height: 70px;
+  }
+}
+.container{
+  width: 200px;
+  margin: 0 20px;
+  &_artist{
+    font-size: 12px;
+    color: gray;
+  }
+}

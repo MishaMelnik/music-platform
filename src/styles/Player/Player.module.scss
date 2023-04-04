@@ -1,0 +1,18 @@
+.player{
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  background-color: lavender;
+}
+.container{
+  width: 200px;
+  margin: 0 20px;
+  &_artist{
+    font-size: 12px;
+    color: gray;
+  }
+}
